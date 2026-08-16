@@ -16,4 +16,4 @@ Building full-stack web apps and data analytics projects
 - **[Fake News Detector](https://github.com/vkdevz/fake-news-detector_demo1)** — ML-based NLP classifier
 
 ## 📫 Connect
-[LinkedIn](https://linkedin.com/in/vansh-kushwah) · thakurvanshkushwah@gmail.com
+[LinkedIn](https://www.linkedin.com/in/vansh-kushwah-0b09a9267/) · thakurvanshkushwah@gmail.com
