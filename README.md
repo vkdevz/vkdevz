@@ -11,7 +11,7 @@ Building full-stack web apps and data analytics projects
 **Tools:** Git, Maven, IntelliJ, VS Code, Postman
 
 ## 🚀 Featured Projects
-- **[VeloCura](https://github.com/vkdevz/velocura)** — Healthcare management platform (Spring Boot + React)
+- **[VeloCura](https://github.com/vkdevz/velocura)** — Healthcare Platform (Spring Boot + React)
 - **[FlowDesk](https://github.com/vkdevz/FlowDesk)** — Task management system (Spring Boot + React + MySQL)
 - **[Fake News Detector](https://github.com/vkdevz/fake-news-detector_demo1)** — ML-based NLP classifier
 
